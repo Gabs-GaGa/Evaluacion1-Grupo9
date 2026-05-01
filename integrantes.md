@@ -1,2 +1,2 @@
 Gabriela Garcia
-Angel Gonzalez Guillen
+Angel Gonzalez
