@@ -1,3 +1,3 @@
 Gabriela Garcia
 Angel Gonzalez
-Diegod Torrealba Silva
+Diego Torrealba Silva
