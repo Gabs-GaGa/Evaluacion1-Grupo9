@@ -1,4 +1,4 @@
 Gabriela Garcia
 Angel Gonzalez
 Diego Torrealba
-Carlos Hereida Morales
+Carlos Heredia Morales
