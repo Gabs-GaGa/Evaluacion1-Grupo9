@@ -11,7 +11,7 @@ int main() {
     cout << "BIENVENIDOS AL PROGRAMA DEL GRUPO 9" << endl;
     cout << "===================================" << endl;
     
-    cout << "\nPorfavor ingrese su nombre completo: ";
+    cout << "\nPor favor ingrese su nombre completo: ";
     getline(cin, nombre_completo);
 
     do{
