@@ -30,5 +30,6 @@ int main() {
 
     cout << "\n<--- Integrantes del Grupo 9 --->\n";
     cout << "\nAngel Enrique Gonzalez Guillen\n";
+    cout << "\nCarlos Eduardo Heredia Morales\n";
     return 0;
 }
