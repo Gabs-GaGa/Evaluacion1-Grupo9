@@ -32,5 +32,6 @@ int main() {
     cout << "\nAngel Enrique Gonzalez Guillen\n";
     cout << "Carlos Eduardo Heredia Morales\n";
     cout << "Gabriela Alexandra Garcia Argote\n";
+    cout << "Diego Andres Torrealba Silva\n";
     return 0;
 }
