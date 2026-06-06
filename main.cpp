@@ -24,16 +24,16 @@ int main() {
     while(edad < 0 || edad > 120);
 
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
-    
+
     cout << "\nA continuacion se mostaran los datos registrados:\n\n";
     cout << "Nombre: " << nombre_completo << endl;
     cout << "Edad: " << edad << endl;
 
     cout << "\n<--- Integrantes del Grupo 9 --->\n";
-    cout << "\nAngel Enrique Gonzalez Guillen\n";
-    cout << "Carlos Eduardo Heredia Morales\n";
-    cout << "Gabriela Alexandra Garcia Argote\n";
-    cout << "Diego Andres Torrealba Silva\n";
-    cout << "Pablo David Machado Ramirez\n";
+    cout << "Angel Enrique Gonzalez Guillen" << endl;
+    cout << "Carlos Eduardo Heredia Morales" << endl;
+    cout << "Gabriela Alexandra Garcia Argote" << endl;
+    cout << "Diego Andres Torrealba Silva" << endl;
+    cout << "Pablo David Machado Ramirez" << endl;
     return 0;
 }
