@@ -23,7 +23,8 @@ int main() {
     }
     while(edad < 0 || edad > 120);
 
-
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    
     cout << "\nA continuacion se mostaran los datos registrados:\n\n";
     cout << "Nombre: " << nombre_completo << endl;
     cout << "Edad: " << edad << endl;
